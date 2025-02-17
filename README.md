@@ -1,13 +1,18 @@
 # HOME-AUTOMATION-WITH-BLUETOOTH
 TASK 2 (EMBEDDED SYSTEM INTERNSHIP)
 
-
 COMPANY  : CODTECH IT SOLUTIONS
+
 NAME     : VAIBHAV UMESH DEWANGAN
+
 INTERN ID: CT08MYM
+
 DOMAIN   : EMBEDDED SYSTEMS
+
 BATCH DURATION : January 20th,2025 to February 20th,2025 (4 Weeks)
+
 MENTOR NAME: Neela Santhosh Kumar
+
 
 A simple home automation system using Bluetooth and a Serial Bluetooth Terminal app to control an LED.
 
@@ -36,8 +41,7 @@ Power Supply
 
 Circuit Diagram
 
-(Insert an image or ASCII representation of your circuit connection)
-
+![Image](https://github.com/user-attachments/assets/e18cc466-133b-40c4-b52d-ae987a8916a5)
 
 ---
 
